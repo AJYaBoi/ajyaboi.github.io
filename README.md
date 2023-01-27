@@ -1,5 +1,7 @@
 # AJYaBoi's site
 
+DO NOT CLICK LINKS THEY DONT WORK
+
 This is a site where i have things here to unblock stuff i guess.
 
 # VERCEL
