@@ -9,4 +9,4 @@ click rat for peach
 [![click rat for peaches](https://github.com/AJYaBoi/ajyaboi.github.io/blob/main/Images/rat.png?raw=true)](https://github.com/AJYaBoi/ajyaboi.github.io/blob/main/Videos/Snaptik_7115551216796585262_doongle-obumperstine.mp4?raw=true)
 
 try to click the pixel
-[![h](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/pixel.png)](ajyaboi.github.io/SiteData/README.md)
+[![h](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/pixel.png)](ajyaboi.github.io/SiteData/)
