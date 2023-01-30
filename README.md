@@ -8,5 +8,7 @@ rat agrees with this site
 click rat for peach
 [![click rat for peaches](https://github.com/AJYaBoi/ajyaboi.github.io/blob/main/Images/rat.png?raw=true)](https://github.com/AJYaBoi/ajyaboi.github.io/blob/main/Videos/Snaptik_7115551216796585262_doongle-obumperstine.mp4?raw=true)
 
+[![Is it worth it?](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/Jan-Worth-it-or-Not-W-orth-it-Header.jpg)](/worth it or not/)
+
 click
 [![h](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/pixel.png)](/SiteData/)
