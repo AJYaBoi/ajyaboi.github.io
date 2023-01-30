@@ -1,12 +1,9 @@
 # AJYaBoi's site
 
-DO NOT CLICK LINKS THEY DONT WORK
+This is a ghub pages site where i have things here to unblock stuff i guess.
 
-This is a site where i have things here to unblock stuff i guess.
+You can copy the links below
 
-# VERCEL
-## [Minecraft on vercel](startechfive-mc.vercel.app)
-## [Cookie clicker on vercel](cookieclicker-unblocked.vercel.app)
+startechfive-mc.vercel.app
 
-# GITHUB
-## [Cookie clicker on github](https://ajyaboi.github.io/cookieclicker/)
+ajyaboi.github.io/cookieclicker/
