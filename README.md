@@ -11,5 +11,5 @@ click rat for peach
 is it worth it? click it to find out
 [![Is it worth it?](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/Jan-Worth-it-or-Not-W-orth-it-Header.jpg)](/worth%20it%20or%20not/)
 
-click
+h
 [![h](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/pixel.png)](/SiteData/)
