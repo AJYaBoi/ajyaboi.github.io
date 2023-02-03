@@ -1,8 +1,5 @@
-# secert page
+# 64920 error
 
-sssshhhhhhh! dont tell anyone about this!
+There was an unexpected error
 
-my website is for unblocking and you can play some of them using the website on my repository for this site. just dont tell people unless you trust them, and dont get caught
-
-
-[![sites]()](/textfiles/sites.txt)
+[![please go to the home page by the url, do not click this]()](/textfiles/sites.txt)
