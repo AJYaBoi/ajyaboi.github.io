@@ -1,6 +1,6 @@
 # AJYaBoi's site
 
-This site is a testing website for tools that will help with fixing certain things.
+why did you come here, just for games? you're not gonna find them here.
 
 
-[![h](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/pixel.png)](/SiteData/)
+[![maybe here tho](https://raw.githubusercontent.com/AJYaBoi/ajyaboi.github.io/main/Images/pixel.png)](/SiteData/)
